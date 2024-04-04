@@ -24,13 +24,13 @@ const HomeSocials = () => {
       >
         <i class="uil uil-twitter"></i>
       </a>
-      <a
+      {/* <a
         href="https://discord.com/users/864127704231968789"
         className="home__social-icon"
         target="_blank" rel="noreferrer"
       >
         <i class="uil uil-discord"></i>
-      </a>
+      </a> */}
       <a
         href="mailto:ananyagupta.works@gmail.com"
         className="home__social-icon"

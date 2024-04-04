@@ -57,7 +57,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Front-End Developer</h3>
       <p className="home__description">
-      A 23-year-old developer in Gurugram, India, who loves making neat code and cool designs. I'm all about creating pretty and easy-to-use stuff for people.
+      A 23-year-old developer in Gurugram, India. I'm all about creating pretty and easy-to-use stuff for people.
       </p>
       <a href="#contact" className="button button--flex">
         Say hello
