@@ -11,7 +11,7 @@ const Info = () => {
         </div>
       </a>
 
-      <a href="#blogs">
+      <a href="https://medium.com/@ananya.gta">
         <div className="about__box">
           <i className="bx bx-pen about__icon"></i>
           <h3 className="about__title">Blogs</h3>
