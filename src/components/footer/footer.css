@@ -1,0 +1,10 @@
+.logo {
+    padding-top: 10px;
+    width: 6rem;
+}
+
+.nav__logo {
+  color: var(--title-color);
+  font-weight: var(--font-medium);
+}
+
