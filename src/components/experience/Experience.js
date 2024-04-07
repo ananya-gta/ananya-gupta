@@ -9,7 +9,7 @@ const Experience = () => {
   };
 
   return (
-    <div className="qualification section" id="experience">
+    <section className="qualification section" id="experience">
       <h2 className="section__title">Experience</h2>
       <span className="section__subtitle">My Career Milestones</span>
       <div className="qualification__container container">
@@ -146,7 +146,7 @@ const Experience = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
