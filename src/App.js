@@ -8,6 +8,7 @@ import Experience from "./components/experience/Experience";
 import Projects from "./components/Projects/Projects";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/footer/Footer";
+import Scrollup from "./components/ScrollUp/Scrollup";
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
         <Contact />
       </main>
       <Footer />
+      <Scrollup />
     </>
   );
 };
