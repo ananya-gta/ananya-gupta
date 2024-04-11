@@ -10,14 +10,14 @@ export const projectsData = [
     id: 1,
     image: Work1,
     title: "Fitness Mantra",
-    demo: "",
+    demo: "https://ananya-s-site-coming-soon.netlify.app",
     code: "https://github.com/ananya-gta/Fitness-Mantra"
   },
   {
     id: 2,
     image: Work2,
     title: "Online Library",
-    demo: "",
+    demo: "https://ananya-s-site-coming-soon.netlify.app",
     code: "https://github.com/ananya-gta/Library-Management-System-Frontend"
   },
   {
@@ -45,7 +45,7 @@ export const projectsData = [
     id: 6,
     image: Work6,
     title: "Cafeteria Website",
-    demo: "",
+    demo: "https://ananya-s-site-coming-soon.netlify.app",
     code: "https://github.com/fitness-mantra"
   },
 ];

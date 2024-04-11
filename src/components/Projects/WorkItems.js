@@ -11,7 +11,7 @@ const WorkItems = ({ item }) => {
         </a>
       </div>
       <a href={item.code} className="work__button">
-        Code <i className="bx bx-code-alt work__button-icon"></i>
+        Code <i className="bx bx-code-alt code"></i>
       </a>
     </div>
   );
