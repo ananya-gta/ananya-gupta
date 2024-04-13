@@ -1,1 +1,1 @@
-# 💼 Checkout my portfolio [here](https://ananyagupta.netlify.app).
+# 💼 Checkout Ananya's portfolio [here](https://ananyagupta.netlify.app).
